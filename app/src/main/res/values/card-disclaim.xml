@@ -1,0 +1,104 @@
+//English
+<!-- Card Disclaimer view texts -->
+<string name="Card.Disclaimer.title">Litecoin Card Beta</string> 
+<string name="Card.Disclaimer.bullets">- New Registration\n- Login (existing account)\n- No balance shown\n- No transfer\n- US Only</string>
+<string name="Card.Disclaimer.referral">Visit litecoin.getblockcard.com for full access</string> 
+<string name="Card.Disclaimer.description">Litecoin Card currently has limited functionality in Litewallet.</string>
+
+//French
+<!-- Card Disclaimer view texts -->
+<string name="Card.Disclaimer.title">Bêta de la carte Litecoin</string> 
+<string name="Card.Disclaimer.bullets">- Nouvelle inscription\n- Connexion (compte existant)\n- Aucun solde affiché\n- Pas de transfert\n- Seulement nous</string>
+<string name="Card.Disclaimer.referral">Visitez litecoin.getblockcard.com pour un accès complet</string> 
+<string name="Card.Disclaimer.description">La carte Litecoin a actuellement des fonctionnalités limitées dans Litewallet.</string>
+
+//Spanish
+<!-- Card Disclaimer view texts -->
+<string name="Card.Disclaimer.title">Tarjeta Litecoin Beta</string> 
+<string name="Card.Disclaimer.bullets">- Nuevo registro\n- Ingrese cuenta existente)\n- No se muestra saldo\n- Sin transferencia\n- Solo nosotros</string>
+<string name="Card.Disclaimer.referral">Visite litecoin.getblockcard.com para obtener acceso completo</string> 
+<string name="Card.Disclaimer.description">La tarjeta Litecoin actualmente tiene una funcionalidad limitada en Litewallet.</string>
+
+//German
+<!-- Card Disclaimer view texts -->
+<string name="Card.Disclaimer.title">Litecoin Card Beta</string> 
+<string name="Card.Disclaimer.bullets">- Neue Registrierung\n- In vorhandenen Account (einloggen)\n- Kein Saldo angezeigt\n- Keine Übertragung\n- Nur wir</string>
+<string name="Card.Disclaimer.referral">Besuchen Sie litecoin.getblockcard.com für den vollständigen Zugriff</string> 
+<string name="Card.Disclaimer.description">Die Litecoin Card verfügt derzeit über eingeschränkte Funktionen in Litewallet.</string>
+
+//Portuguese
+ <!-- Card Disclaimer view texts -->
+ <string name="Card.Disclaimer.title">Litecoin Card Beta</string> 
+ <string name="Card.Disclaimer.bullets">- Novo registro\n- Entrar em uma conta existente)\n- Nenhum saldo mostrado\n- Sem transferência\n- Apenas nós</string>
+ <string name="Card.Disclaimer.referral">Visite litecoin.getblockcard.com para acesso total</string> 
+ <string name="Card.Disclaimer.description">O cartão Litecoin atualmente tem funcionalidade limitada no Litewallet.</string>
+
+ //Dutch
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Litecoin Card Beta</string> 
+  <string name="Card.Disclaimer.bullets">- Nieuwe registratie\n- Inloggen (bestaand account)\n- Geen saldo weergegeven\n- Geen overdracht\n- Wij alleen</string>
+  <string name="Card.Disclaimer.referral">Bezoek litecoin.getblockcard.com voor volledige toegang</string> 
+  <string name="Card.Disclaimer.description">Litecoin Card heeft momenteel beperkte functionaliteit in Litewallet.</string>
+
+ //Indonesian
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Kartu Litecoin Beta</string> 
+  <string name="Card.Disclaimer.bullets">- Pendaftaran baru\n- Masuk (akun yang ada)\n- Tidak ada saldo yang ditampilkan\n- Tidak ada transfer\n- Hanya kita</string>
+  <string name="Card.Disclaimer.referral">Kunjungi litecoin.getblockcard.com untuk akses penuh</string> 
+  <string name="Card.Disclaimer.description">Kartu Litecoin saat ini memiliki fungsi terbatas di Litewallet.</string>
+
+ //Danish
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Litecoin-kort Beta</string> 
+  <string name="Card.Disclaimer.bullets">- Ny registrering\n- Login (eksisterende konto)\n- Ingen balance vist\n- Ingen overførsel\n- Kun USA</string>
+  <string name="Card.Disclaimer.referral">Besøg litecoin.getblockcard.com for fuld adgang</string> 
+  <string name="Card.Disclaimer.description">Litecoin Card har i øjeblikket begrænset funktionalitet i Litewallet.</string>
+
+//Italian
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Litecoin Card Beta</string> 
+  <string name="Card.Disclaimer.bullets">- Nuova registrazione\n- Log in in un account esistente)\n- Nessun saldo mostrato\n- Nessun trasferimento\n- Solo USA</string>
+  <string name="Card.Disclaimer.referral">Visita litecoin.getblockcard.com per l'accesso completo</string> 
+  <string name="Card.Disclaimer.description">Litecoin Card ha attualmente funzionalità limitate in Litewallet.</string> 
+  
+ //Russian 
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Бета-версия карты Litecoin</string> 
+  <string name="Card.Disclaimer.bullets">- Новая регистрация\n- Авторизация (существующая учетная запись)\n- Баланс не отображается\n- Без передачи\n- Только США</string>
+  <string name="Card.Disclaimer.referral">Посетите litecoin.getblockcard.com для полного доступа</string> 
+  <string name="Card.Disclaimer.description">Litecoin Card в настоящее время имеет ограниченную функциональность в Litewallet.</string>
+
+ //Swedish
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Litecoin-kort Beta</string> 
+  <string name="Card.Disclaimer.bullets">- Ny registrering\n- Inloggning (befintligt konto)\n- Ingen balans visas\n- Ingen överföring\n- Endast USA</string>
+  <string name="Card.Disclaimer.referral">Besök litecoin.getblockcard.com för fullständig åtkomst</string> 
+  <string name="Card.Disclaimer.description">Litecoin Card har för närvarande begränsad funktionalitet i Litewallet.</string>
+
+ //Korean
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">라이트 코인 카드 베타</string> 
+  <string name="Card.Disclaimer.bullets">-신규 등록\n-로그인 (기존 계정)\n-잔액이 표시되지 않음\n-환승 불가\n-미국 만 해당</string>
+  <string name="Card.Disclaimer.referral">전체 액세스를 위해 litecoin.getblockcard.com을 방문하십시오.</string> 
+  <string name="Card.Disclaimer.description">라이트 코인 카드는 현재 라이트 월렛에서 제한된 기능을 가지고 있습니다.</string>
+
+ //Japanese
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">ライトコインカードベータ</string> 
+  <string name="Card.Disclaimer.bullets">-新規登録\n-ログイン（既存のアカウント）\n-残高は表示されていません\n-転送なし\n-米国のみ</string>
+  <string name="Card.Disclaimer.referral">フルアクセスについては、litecoin.getblockcard.comにアクセスしてください</string> 
+  <string name="Card.Disclaimer.description">ライトコインカードは現在、ライトウォレットの機能が制限されています。</string>
+  
+ //Chinese Simplified
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Litecoin卡测试版</string> 
+  <string name="Card.Disclaimer.bullets">-新注册\n-登录（现有帐户\n-没有余额显示\n-没有转移\n-仅美国</string>
+  <string name="Card.Disclaimer.referral">访问litecoin.getblockcard.com以获取完全访问权限</string> 
+  <string name="Card.Disclaimer.description">Litecoin卡当前在Litewallet中具有有限的功能。</string>
+  
+ //Chinese Traditional
+  <!-- Card Disclaimer view texts -->
+  <string name="Card.Disclaimer.title">Litecoin卡測試版</string> 
+  <string name="Card.Disclaimer.bullets">-新註冊\n-登錄（現有帳戶）\n-沒有餘額顯示\n-沒有轉移\n-僅美國</string>
+  <string name="Card.Disclaimer.referral">訪問litecoin.getblockcard.com以獲取完全訪問權限</string> 
+  <string name="Card.Disclaimer.description">Litecoin卡當前在Litewallet中具有有限的功能。</string>
