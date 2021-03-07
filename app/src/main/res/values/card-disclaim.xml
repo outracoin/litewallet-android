@@ -8,14 +8,14 @@
 //French
 <!-- Card Disclaimer view texts -->
 <string name="Card.Disclaimer.title">Bêta de la carte Litecoin</string> 
-<string name="Card.Disclaimer.bullets">- Nouvelle inscription\n- Connexion (compte existant)\n- Aucun solde affiché\n- Pas de transfert\n- USA uniquement</string>
+<string name="Card.Disclaimer.bullets">- Nouvelle inscription\n- Connexion (compte existant)\n- Aucun solde affiché\n- Pas de transfert\n- États-Unis uniquement</string>
 <string name="Card.Disclaimer.referral">Visitez litecoin.getblockcard.com pour un accès complet</string> 
 <string name="Card.Disclaimer.description">La carte Litecoin a actuellement des fonctionnalités limitées dans Litewallet.</string>
 
 //Spanish
 <!-- Card Disclaimer view texts -->
 <string name="Card.Disclaimer.title">Tarjeta Litecoin Beta</string> 
-<string name="Card.Disclaimer.bullets">- Nuevo registro\n- Ingrese cuenta existente)\n- No se muestra saldo\n- Sin transferencia\n- Solo EE. UU.</string>
+<string name="Card.Disclaimer.bullets">- Nuevo registro\n- Ingrese cuenta existente)\n- No se muestra saldo\n- Sin transferencia\n- Estados Unidos solamente</string>
 <string name="Card.Disclaimer.referral">Visite litecoin.getblockcard.com para obtener acceso completo</string> 
 <string name="Card.Disclaimer.description">La tarjeta Litecoin actualmente tiene una funcionalidad limitada en Litewallet.</string>
 
@@ -29,7 +29,7 @@
 //Portuguese
  <!-- Card Disclaimer view texts -->
  <string name="Card.Disclaimer.title">Litecoin Card Beta</string> 
- <string name="Card.Disclaimer.bullets">- Novo registro\n- Entrar em uma conta existente)\n- Nenhum saldo mostrado\n- Sem transferência\n- Apenas nos EUA</string>
+ <string name="Card.Disclaimer.bullets">- Novo registro\n- Entrar em uma conta existente)\n- Nenhum saldo mostrado\n- Sem transferência\n- Apenas estados unidos</string>
  <string name="Card.Disclaimer.referral">Visite litecoin.getblockcard.com para acesso total</string> 
  <string name="Card.Disclaimer.description">O cartão Litecoin atualmente tem funcionalidade limitada no Litewallet.</string>
 
