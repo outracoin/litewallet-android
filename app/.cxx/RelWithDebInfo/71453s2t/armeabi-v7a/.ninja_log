@@ -1,0 +1,23 @@
+# ninja log v5
+5	320	1635104412	CMakeFiles/core-lib.dir/src/main/jni/transition/JNIBase58.c.o	9d0e72f732b34fd8
+5	322	1635104412	CMakeFiles/core-lib.dir/src/main/jni/transition/JNIBIP32Sequence.c.o	a71a5fbbd5fb7d9
+2	335	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBloomFilter.c.o	24714061fc1211aa
+4	340	1635104412	CMakeFiles/core-lib.dir/src/main/jni/transition/core.c.o	482b4d0e3f34870a
+1	354	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBIP39Mnemonic.c.o	828b5b0e5d4684ec
+0	363	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBase58.c.o	ec73f6f023ef200
+1	366	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBIP32Sequence.c.o	cb7aa4933bf92a0c
+2	394	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRSet.c.o	2493f87a1af2c3e1
+0	419	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRAddress.c.o	25b641db0c92c162
+2	428	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRMerkleBlock.c.o	3ee5bee6e81ab8f6
+320	473	1635104412	CMakeFiles/core-lib.dir/src/main/jni/transition/JNIKey.c.o	6fc687621aeb919b
+1	533	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBIP38Key.c.o	f6bf9a75d5f9995a
+322	562	1635104412	CMakeFiles/core-lib.dir/src/main/jni/transition/PeerManager.c.o	ca7d15de5c0b4c75
+4	637	1635104412	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRTransaction.c.o	1c4d92d4d641e4a2
+3	775	1635104413	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRWallet.c.o	467269f80bfab599
+0	987	1635104413	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRCrypto.c.o	723c5359df67841
+1	1010	1635104413	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRPaymentProtocol.c.o	3a19a87244012567
+335	1158	1635104413	CMakeFiles/core-lib.dir/src/main/jni/transition/wallet.c.o	c98ded4f30b1ad23
+3	1493	1635104413	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRPeer.c.o	fc0292d416b7c469
+3	1752	1635104413	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRPeerManager.c.o	e39414ffa12f8c3b
+2	2606	1635104414	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRKey.c.o	f559ba568d7032a7
+2607	2673	1635104414	../../../../build/intermediates/cxx/RelWithDebInfo/71453s2t/obj/armeabi-v7a/libcore-lib.so	20a1f36976a081b6

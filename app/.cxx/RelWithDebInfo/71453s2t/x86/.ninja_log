@@ -1,0 +1,23 @@
+# ninja log v5
+5	131	1635104417	CMakeFiles/core-lib.dir/src/main/jni/transition/JNIBase58.c.o	9977d35c1bd7c949
+6	136	1635104417	CMakeFiles/core-lib.dir/src/main/jni/transition/JNIBIP32Sequence.c.o	b51b06a2b87674f7
+2	215	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBloomFilter.c.o	f4c3146031426c33
+2	224	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBIP39Mnemonic.c.o	4543243d0f6e099f
+1	237	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBase58.c.o	4cd5b867c82a9c43
+5	240	1635104417	CMakeFiles/core-lib.dir/src/main/jni/transition/core.c.o	1e9e24edc8562930
+1	253	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBIP32Sequence.c.o	b7210a9efa09969c
+3	271	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRSet.c.o	2f647be2fb1ffe28
+131	292	1635104417	CMakeFiles/core-lib.dir/src/main/jni/transition/JNIKey.c.o	b0a8b72d543d80a8
+1	303	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRAddress.c.o	704c1998aba8c42a
+3	333	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRMerkleBlock.c.o	764ae05094c51ebb
+136	397	1635104417	CMakeFiles/core-lib.dir/src/main/jni/transition/PeerManager.c.o	5711678cfbb38db4
+1	424	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRBIP38Key.c.o	88b064aa5755330f
+4	542	1635104417	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRTransaction.c.o	149960432b4c73d5
+4	710	1635104418	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRWallet.c.o	afb6f7fbc8eadc28
+0	898	1635104418	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRCrypto.c.o	37a90459f4b6ecd0
+2	968	1635104418	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRPaymentProtocol.c.o	1e3f8e2fde413243
+215	1061	1635104418	CMakeFiles/core-lib.dir/src/main/jni/transition/wallet.c.o	cda298b3a97f07b0
+3	1441	1635104418	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRPeer.c.o	28d70491edb54e14
+4	1657	1635104419	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRPeerManager.c.o	ec354494b4a36f36
+2	2636	1635104420	CMakeFiles/core-lib.dir/src/main/jni/loafwallet-core/BRKey.c.o	df665fcd5c85d0a4
+2636	2696	1635104420	../../../../build/intermediates/cxx/RelWithDebInfo/71453s2t/obj/x86/libcore-lib.so	8ef1d766e1453558

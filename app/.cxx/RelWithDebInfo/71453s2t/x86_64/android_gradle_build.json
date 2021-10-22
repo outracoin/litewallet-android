@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/grunt/crypto_projects/lf-projects/loafwallet-android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/grunt/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/grunt/crypto_projects/lf-projects/loafwallet-android/app/.cxx/RelWithDebInfo/71453s2t/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/grunt/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/grunt/crypto_projects/lf-projects/loafwallet-android/app/.cxx/RelWithDebInfo/71453s2t/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "core-lib-RelWithDebInfo-x86_64": {
+      "buildCommandComponents": [
+        "/Users/grunt/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/grunt/crypto_projects/lf-projects/loafwallet-android/app/.cxx/RelWithDebInfo/71453s2t/x86_64",
+        "core-lib"
+      ],
+      "buildType": "release",
+      "abi": "x86_64",
+      "artifactName": "core-lib",
+      "output": "/Users/grunt/crypto_projects/lf-projects/loafwallet-android/app/build/intermediates/cxx/RelWithDebInfo/71453s2t/obj/x86_64/libcore-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
